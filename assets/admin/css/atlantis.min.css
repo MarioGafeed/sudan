@@ -1366,7 +1366,7 @@ body {
 .logo-header[data-background-color="dark"] {
   background: #1a2035 !important; }
 
-.logo-header[data-background-color="dark2"] {
+.logo-header[data-background-color="white"] {
   background: #1f283e !important; }
 
 .navbar-header[data-background-color="dark"] {
@@ -1471,7 +1471,7 @@ body {
   .sidebar[data-background-color="dark"] .scrollbar-inner > .scroll-element.scroll-draggable .scroll-bar, .sidebar[data-background-color="dark"] .scrollbar-inner > .scroll-element:hover .scroll-bar {
     background-color: #dcdbdb; }
 
-.sidebar[data-background-color="dark2"] {
+.sidebar[data-background-color="white"] {
   background: #1f283e !important; }
   .sidebar[data-background-color="dark2"] .user {
     border-color: rgba(181, 181, 181, 0.1) !important; }
