@@ -1,6 +1,6 @@
 <div class="main-header">
   <!-- Logo Header -->
-  <div class="logo-header" data-background-color="dark2">
+  <div class="logo-header" data-background-color="white">
 
     <a href="{{route('front.index')}}" class="logo" target="_blank">
       <img src="{{asset('assets/front/img/'.$bs->logo)}}" alt="navbar brand" class="navbar-brand" width="120">
